@@ -1,0 +1,2 @@
+- Need to go through and convert all footnotes to pandoc format
+- Need to figure out how to scan .tex book file so that pandoc citations are rendered via a bib file

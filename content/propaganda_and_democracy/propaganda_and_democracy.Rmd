@@ -1,0 +1,54 @@
+```{r set-parent, echo=FALSE, cache=FALSE}
+setwd("~/Dropbox/gh_projects/pacification_of_the_world/book")
+```
+
+The notion of "democracy" as an internationally recognized and supposedly desirable feature of national political systems is relatively new. It is only around the time of World War I that "democracy" makes its debut as a recognizable ideology of national governments. More specifically, it was ony a relatively small group of Allied elites who launched this term into mass political consciousness in order to create public support for war against Germany.
+
+The graphs below use data from Google Books to show that World War I is associated with a noticeable spike of public interest in "democracy" and that up until recently "democracy" co-varied with "propaganda." The data is from [Google Ngrams](https://books.google.com/ngrams), which basically counts the occurrence of phrases from millions of books in multiple languages.
+
+```{r fig.height=4, fig.width=7, echo=FALSE, warning=FALSE, message=FALSE, error=FALSE, cache=TRUE}
+require(ngramr)
+
+english <- ngram(c("democracy", "propaganda"),
+               year_start = 1850,
+               corpus=c("eng_us_2012", "eng_gb_2012"),
+               case_ins=TRUE)
+
+ggram(english, geom_options=list(aes(linetype=Phrase))) +
+  ggtitle("\"Democracy\" and \"Propaganda\" in English") +
+  theme_bw() +
+  scale_colour_grey() +                 # Change shapes
+  scale_linetype_manual(values=c("dotted", "dashed")) +
+  facet_wrap(~ Corpus)
+```
+
+Strikingly, although "propaganda" and "democracy" covary throughout most of this period, a break occurs in American and British English after World War II (and especially beginning in the 1980s) in which the appearance of "propaganda" declines while "democracy" increases. The word "media" however, rises throughout this period. We might hypothesize that "media" effectively becomes a more politically palatable term for the same essential social machinery previously known as propaganda. Needless to say, while the data here are consistent with this hypothesis, they are very far from demonstrating anything in particular.
+
+```{r fig.height=4, fig.width=7, echo=FALSE, warning=FALSE, message=FALSE, error=FALSE, cache=TRUE}
+english <- ngram(c("democracy", "propaganda", "media"),
+               year_start = 1850,
+               corpus=c("eng_us_2012", "eng_gb_2012"),
+               case_ins=TRUE)
+
+ggram(english, geom_options=list(aes(linetype=Phrase))) +
+  ggtitle("\"Democracy\", \"Propaganda\", and \"Media\" in English") +
+  theme_bw() +
+  scale_colour_grey() +                 # Change shapes
+  scale_linetype_manual(values=c("dotted", "dashed", "solid")) +
+  facet_wrap(~ Corpus)
+```
+
+We find a similar pattern in French but with notable differences.
+
+```{r fig.height=4, fig.width=7, echo=FALSE, warning=FALSE, message=FALSE, error=FALSE, cache=TRUE}
+french <- ngram(c("démocratie", "propagande", "médias"),
+               year_start = 1850,
+               corpus="fre_2012",
+               case_ins=TRUE)
+
+ggram(french, geom_options=list(aes(linetype=Phrase))) +
+  ggtitle("\"Démocratie\" and \"Propagande\" in French") +
+  theme_bw() +
+  scale_colour_grey() +                 # Change shapes
+  scale_linetype_manual(values=c("dotted", "dashed", "solid"))
+```
