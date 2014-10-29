@@ -1,0 +1,135 @@
+### Problems with the Opinion-Policy Link
+
+Early, institutionalized, and institutionalizing social scientists had high hopes for using new survey techniques to analyze the individual-level psychological and behavorial processes which constitute modern liberal democracy. Berelson [-@Berelson:1952jm], for instance, notes that democratic theory assumes that citizens meet certain requirements related to tolerance, patience, interest, knowledge, and the will to participate.
+
+But early research in political behavior was extremely bleak: most people had little knowledge of politics, most political opinions were not based on facts, most people were generally authoritarian and prejudiced, they typically only listened to views they already agreed with, and participation in politics was low (Prothro and Grigg 1960; McCloskey 1964; Cobb and Elder 1971, 893). In short, much of this first wave of political science research, largely based on the new survey methods growing popular at the time, would have seemed damning evidence that the citizens of the United States' simply do not constitute what is called democracy.
+
+Rather than take these studies as ammunition to protest the US political system--and perhaps joining the students, the blacks, and the women who at this very time *were* doing precisely this--the next wave of political scientists simply argued that early theorists of democracy had too narrow a definition of democracy. The new idea was that "democracy" only requires an empirical relationship between public opinion and policymaking *in the aggregate*. If the actual direction of state policymaking were to show zero correlation with shifts in public opinion, this would be damning evidence that what the public wants has no affect on the policies pursued by state elites. But so long as policymaking in general moves in response to aggregate public opinion, this is adequate evidence that the "macropolity" is indeed a functioning democracy. And indeed, since then, political scientists have found that in democracies, shifts in public opinion tend to be followed by corresponding shifts in policymaking. Many scholars interpert these findings as evidence that democratic institutions deliver what they're supposed to: mass public control over the general direction of national policymaking.
+
+As scholars pointed out even at the time, it is a very conservative move to solve the problem of undemocratic realities by simply weakening the definition of democracy (Easton 1969; Walker 1966; Bachrach 1967). I'm interested in specifying and, in the future, measuring and testing two specific aspects of this politically and therefore scientifically problematic move.
+
+1.) I hypothesize that a crucial unjustified problem at this moment in political science, a theoretical and empirical problem never yet adequately addressed and which bears extraordinary significance for true popular social change, is that *what people express as their opinion is significantly determined by perceived feasibility.* This is probably not a controversial claim and yet this would represent a very serious bias in most public opinion polling. In general, people do not express political demands for policy changes which they believe are impossible given the institutional landscape. Such an articulation is seen as stupid, naive, or simply meaningless, so individuals calculate and articulate their political desires in a way that effectively assumes the institutional status quo *as given*. In this way, discourse on the level of "public opinion" (e.g., asking people questions about what a current government should do) contains an "approval" of the status quo which is not real but is simply assumed into their answer by the nature of the question. Political science since this period essentially imputes to citizens a baseline level of "support" for a status quo which is really nothing more than their degree of capitulation to a status quo which (variably and contingently) presents itself as given and unmovable. These two components--sincere approval of the status quo and mere compliance with power (the very nature of which is to be taken as given)--have never been adequately disaggregated. Public opinion has only ever been, from its beginning, a measured aggregate response to questions which are generated in part by an unmeasured quantum of political force.
+
+In this light, we might begin to hypothesize that political practices such as delegation, the proliferation of subnational and/or supranational bureacracies charged with certain policymaking imperatives and/or prohibitions, have more to do with public opinion than is typically thought. For instance, the European Commission was designed to be the "engine" of European integration precisely because it would be insulated from the snags of domestic resistances. We might hypothesize that the establishment of a bureaucratically insulated policymaking institution such as the EC (or any other sub- or supra-national institution which removes a portion of policymaking power from democratic control) lowers the salience of certain public opinion questions and/or decreases the tendency of citizens to articulate certain approvals or disapprovals. Political scientists such as Timothy Hellwig have shown that citizens do indeed discount their judgments of the political landscape based on exogenous changes such as economic globalization, but this logic ought to apply to any institutional change with any effect on what it is possible for certain actors to do or not do. Specifically, purposeful institutional innovations might have the effect of ameliorating citizens negative judgments of certain actors or other previously existing institutions, or perhaps they might diffuse blame across so many institutions that citizens no longer feel dissatisfied with any of them. More specifically in our example, the advent of the EC might weaken citizens' negative judgments of domestic policymakers, if they believe domestic policymakers have a weaker institutional role in setting policy than before the advent of the EC. 
+
+Researchers will have to disaggregate these "authentic-individual" and "forced-institutional" components of public opinion data before we can take them seriously as reflections of genuine support or disapproval of the political status quo.
+
+2.) Another extraordinary threat to this already conservative rationalization of contemporary public policymaking is the possibility that public opinion is disproportionately shaped by political and economic elites. For, of course, if changes in public opinion were found to be determined by status quo political factors not democratically determined (distinct from and in addition to the baseline bias caused by institutions, outlined above), then even robust correlations between aggregate public opinion and policymaking could no longer be taken seriously as evidence of democracy.
+
+This is the claim of critics such as David Harvey and Naomi Klein. They point to the 1970s as a crucial period. The example of Lewis Powell's memo to the US Chamber of Commerce [@harvey2005brief, 43]. The Chamber of Commerce and National Association of Manufacturers began a significant and documented intensification of its spending, lobbying, and membership. The Business Roundtable is founded in 1972. Corporate interests start funding a large group of think-tanks and academic institutions as well. NBER is an example. The Trilateral commission in 1973, the report by political scientists called "The Crisis of Democracy." Nozick, Milton Freedom on TV. Of course, this remains to be demonstrated very convincingly in the quantitative literature, but I should like to try.
+
+But even the mainstream "public policy" literature testifies to the fact that "political marketing" has as much to do with selling political products, i.e. producing political ideas, as gauging what citizens demand (Lees-Marshment 2011, 9). They quite openly and uncontroversially use techniques of manipulation, taken from advertising and marketing. So it is hardly a fringe left-wing idea that public opinion is the object of politicians' strategic ouputs as much as it is possibly an input.
+
+### Representations
+
+The overall issue is that mass media representations are shaped in a systematically conservative way--not that they necessarily report on conservative political parties more favorably than leftist parties, although this is how media bias is often conceived. 
+
+Rather, the point is that in a capitalist society, media representations will have a conservative bias with respect to the dominant institutions, for example, those institutions which are the common ground of political parties as such. So the issue is not that the media are more or less favorable to left parties or right parties; the issue is that they will not question the legitimacy of political parties *as such*.
+
+So in any patriarchal, white-dominated, capitalist society, the mass media will be sexist, racist, and biased against the critique or protest against capitalism simply because its bias is that it reinforce the hard-wired biases of society (institutions).
+
+#### Stuart Hall video at http://www.youtube.com/watch?v=JsqTXylw-Uo
+
+When right-wing movements emerge, it's "I might not agree but they are really doing something."
+
+"Neutrality" is a conservative bias because the "center" is defined by power; as such, it will always be a bit further to the right than the actual centre-point between the interests of all people.
+
+When right-wing phenomena emerge, they might be treated with skepticism but they are acknowledged as existing and their power is affirmed. When left-wing phenomena emerge, it's childish, idealistic, cunning, manipulative, and ineffective. Comparison of Kingsley Read and the Anti Nazi League is exemplary.
+
+But in doing so, it *makes* the left-wing movement ineffective. And then nothing at all about the local grassroots types of organizing that people of color do by themselves, which are not even newsworthy.
+
+Thus, media simply replicates and thereby reinforces the inherent asymmetry between the forces of right and left. Because it's always easier to defend that which institutions are aligned on the basis of, and inherently more difficult to argue against that which institutions are invested in, the media simply reflects this and amplifies this.
+
+So it represents the world in a fundamentally conservative way even when it's balanced and neutral.
+
+Talks about BBC's principle of neutrality
+
+- When the British National Party emerges, it's "remarkable" even if dubious
+
+- When the Black Panthers emerged, it's either not covered or completely demonized
+
+- David Duke, leader of the KKK, wanted by the Home Office and Police as an illegal entrant, given a platform on BBC
+
+- Is Fidel Castro allowed to give a TV speech to the British people?
+
+- In the 1980s there was a lot of blatantly racist media, television and movies etc.
+
+- BBC as respectable and genteel, Lord Reith says what's wrong with that?
+
+Racist tropes
+	- "They" work too hard
+	- But also "they" are lazy and live off the dole
+	- "They" don't understand organizing/activism
+
+	Very interesting when someone criticizes a television producer directly. The producer responds by saying that this kind of multi-cultural environment makes members from all the different races more comfortable with each other. That it's just for enjoyment.
+
+	But as Stuart Hall points out, this entertainment and enjoyment functions to make real inequalities more tolerable. That is perhaps exactly what the producer is saying, but in a more concealed way: that racist comedy takes a nasty and violent reality and makes it enjoyable. That's why this kind of "multi-cultural" enjoyment is racist. It practically strengthens our social tolerance of racism.
+
+	Hall analyzes a BBC report on John Kingsley Read, where he is given a platform to articulate racist attacks on foreign-born folks. The reporter says at the end that Read's accusations were not supported by the evidence, but Hall points out that this formal "neutrality" and balance hides the effect of impressions. Kingsley Read making those accusations has more of an impression than some reporter saying there's no evidence for them.
+
+	To this we might add what is known about partisan information processing. A lot of evidence suggests that a racist-leaning person would be embolded by the racist information, and would simply reject the critique of that racist information. In fact, some studies suggest that the insinutation that Kingsley Read was wrong would make them more racist, as they would find that evidence that he's being silenced.
+
+	The use of numbers makes people from non-white races seem as a problem, or else why would we be counting them?
+
+#### bell hooks on Madonna
+
+- Started out feminist, but then becomes re-attached to sexism
+- bell hooks argues that it's basically because capitalism requires that you sell yourself
+- so she sold the revolutionary feminist until it ran out, then gave into petty stereotypes
+- and also sold out black people, calling them the most sexist when she's being abused by a white man
+- hooks argues that it's because there's more money to be made on the right than left
+- the idea that money is the only value leads women to collude with patriarchy and people of color to collude with racism
+
+#### London Riots Coverage
+
+	1. Duggan's murder is described as if nothing is known, all awaiting police statements
+	2. Riots are described as if they were a natural disaster, and then half way through causes are considered
+	3. Mostly people who condemn the protest, the protest is seen as the problem
+	4. The actual problem is never even addressed; when it is, it's silenced.
+
+
+
+### Social Media
+
+1. Everyone knows that social media can and has played a unique role in enabling protest and regime change.
+
+2. This lecture will be about giving you a fuller background for this new and popular issue.
+ - historical precedents
+ - variations in success and failure
+ - variations within success
+ - why exactly?
+
+1. Many instances where the world wide web was crucial before Arab Spring.
+	- first, the EZLN in 1994 before social media
+		- talk about this at some length
+	- Phillipines 2001
+	- Moldova 2009
+	- Iran 2009
+
+2004: Facebook invented by Mark Zuckerberg
+2005: Youtube invented by Steve Chen and Chad Hurley
+2006: Twitter invented
+2011: 845 million on FB, 300 million on twitter
+
+FB users in Arab World increased by 78% in 2010, according to Dubai School of Government report cited in Safranek
+
+Phillipines 2001: text messages allowed for a spontaneous protest of more than a million against certain court proceedings against President Estrada. The court reversed its decision and Estrada resigned.
+
+Moldova 2009: after disputed elections, facebook, livejournal and Twitter were used to amplify protests. official media carried no coverage. about 30,000 people. no change of leadership or new election.
+
+Iran 2009: Agha-Soltan shot en route to a government protest. video captured on cell phone, and spread to Youtube, Facebook, and Twitter, launching it to CNN and New York Times. no official media coverage. as for protests, social media mostly used by the west to hear and discuss what was happening in Iran. also, iranian government official actively use internet to disseminate misinformation and religious conservatives are as prominent on twitter as protestors. unsuccessful promoting change.
+
+Tunisia 2010/2011: Bouazizi set himself on fire and video spread by Youtube, protests spread rapidly and Ben Ali fled. Tunisia one of the most connected and educated countries in the Gulf.
+
+Bahrain?
+
+Egypt 2011: Police beat to death Khaled Said. Google exec posted this to Youtube and made a Facebook page.
+
+Libya 2011? Less so. Less tradition of online activism, little web infrastructure. 
+
+Why? The basic mechanism is that it lowers socioeconomic barriers to entry into movements, and lowers the transaction costs of sharing this internaitonally (building international support).
+
+My hypothesis is that internet is revolutionary only with the first 
+
+
+

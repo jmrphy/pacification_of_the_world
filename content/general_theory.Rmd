@@ -1,6 +1,11 @@
-Everything seems to indicate that the crucial dimension is that between instrumental and substantive rationality.
+## Fragments
+
+So there's a crucial distinction between instrumental and substantive rationality.
+
 - the personal integrity of anarchism vs the instrumentalism of marxism
+
 - ethos and elan vs a separate realm of strategy (that is, even activists notion of “goal, strategy, tactics” begs the key questions of how to live and therefore simply skips precisely to the battlefield in which it has already been crushed)
+
 
 This also explains why today all currently existing social movements are completely unable to build anything which can even pretend to challenge the dominant institutions. Because the public sphere has been so completely subordinated to instrumentalism—the only speech which is even sensible is that which meets some minimal threshold of self-interest, because nothing else is credible—the most preliminary efforts to establish a genuinely kind and loving contact with another human being are basically impossible—let alone build radical ties or a social movement!
 This extraordinary change, and undeniable *decay* in communications has never before been fully identified, let alone explained.
@@ -22,35 +27,44 @@ In periods where the ability for a particular source to reach many people increa
 I propose a thesis regarding how this has been caused in history. There has always been a conflict between the instrumental communication which and non-instrumental communication. **Whenever the ability for one location to contact multiple other locations increases, this empowers both sincere and instrumental communications in the short-run. But in the long-run, instrumentalism extends its reach more than sincerity.**
 There is one main problem. In short, the ability to use this communication is conditioned by the distribution of power, so that only those with the resources to use the technology can use it for either sincere or instrumental communications. Some fraction will use it for sincere and another will use it for instrumental, but the degree to which it used for either will be determined largely by how much those with power to use it are invested in the status quo institutions. If the fraction of people to use communication technology benefit from the status quo, even sincere use of it will only be liberating for that fraction of the people, as they will be intersted in communicative liberation but not at the cost of their privileges. This is the example of liberals in the Dewey camp during WW1. In a more already-equal society, increases in communication 
 
-## 1820-1875 first upturn of globalization
+#### 1820-1875 first upturn of globalization
 telegraph, newspapers, amateur radio
 first international, revolutionary upsurges, Fanelli goes to Spain
 
-## 1875-1914 down turn of globalization
+#### 1875-1914 down turn of globalization
 recuperations within the left, 
 state-corporate control of radio, second international, anarchist terrorism as last gasping breathe. watering down of “democracy” as republicanism in 1875. ww1 as corporate-state lockdown. bolshevism.
 
-## 1949-1975 upturn of second globalization (without people)
+#### 1949-1975 upturn of second globalization (without people)
 trade, mass media internationally, anti-colonial war, 
 information revolution about 1950. 
-## 1975-1991 downturn of second globalization (without people)
+
+#### 1975-1991 downturn of second globalization (without people)
 neoliberalism, mass media solidification, trade and investment integration, collapse of soviet instrumentalism, mass evactuation of left sincerity in favor of left instrumentalism within capitalism.
-## 1994-2011 upturn of the networked world
+
+#### 1994-2011 upturn of the networked world
 zapatistas up to arab spring and occupy, flowerings of sincerity.
 
-##  2011-Today downturn of the networked world, the pacified world
+####  2011-Today downturn of the networked world, the pacified world
 capitalism as mainstream ideology of most people rich and poor, left and right. the main ideological cleavage is between ruthless instrumentalism and humane instrumentalism, but the pole of sincere, substantive ethical and political truth opposed to instrumentalism has been vanquished from most of the globe. the internet.
 
-## How Instrumental Rationality Favors the Right and Inhibits the Left
+### How Instrumental Rationality Favors the Right and Inhibits the Left
 The problem of most left political thought and practice since time immemorial is that, because they are generated precisely by exploitative institutional arrangements, the only left messages which receive recognition within such cultures are those which respond to the material needs of the exploited. This is perfectly understandable, because the material needs which sustain life are both ethically and practically prior to any possible social movement on other grounds. This is why normatively lofty or aesthetically-driven currents of leftist political thought and practice are always mocked in every period: when some people are starving, rhetorical flights of any sort do *seem* to reflect mistaken priorities. Thus it is that mature and decent leftists always tend to discipline the younger more “idealistic” leftists into calming their normative and rhetorical passions in favor of the hard work of getting material gains for the most exploited people.
 While this is perfectly understandable and quite natural to sympathize with, there is an extraordinary problem with this tendency. Specifically, it grants to the exploitative institutional arrangements their most crucial ethical and epistemological assumption: instrumental rationality. It is necessary for the exploited to practice the instrumental rationality required for survival, but the problem is that because of this need, the left capitulates *in general* to instrumental rationality as the proper analytical orientation to social and political struggle. Anything which opposes instrumental rationality is, to the committed and *rational* leftist, a prodigal self-indulgence of an immature and “privileged” soul uneducated in the history of the Practical Left.
 
 Nevermind that the history of the Practical Left is a history of betrayal, capitulation, and ultimately, complete failure—given that domination and exploitation not only continue to exist but in the institutions of global capitalism institutionalized more powerfully than ever before in the history of humanity.
 
-# Economic power to computational rather than ethical thinking
+### The conservatism of everyday speech
+
+(Rephrase because this is in pamphlet.)
+
+Everyday words do not communicate, they are much better understood oppositely: they are blockages of communication, evolved to divide, channel, distort, and otherwise institutionalize the human community to increase utility of the most powerful groups. It is one of the largest and most powerful set of mechanisms for maintaining capitalism because they are the million little signposts which at every moment point to people which roads pay. At every fork in our road, at those specific moments when we do have the resources to choose good or evil, words always send us toward capitalism because words (logos) at best are merely true (a car which doesn't come with an engine, let alone fuel). Logic and reason are motion-neutral, "disinterested" objective analysis cannot tell anyone what to value, as only subjective desire and commitment can propel and direct a person's projects — but in a dynamic system *defined by* the instrumental exploitation of humans, then disinterested logos and ratio is exploitation.  Strong logical reasoning is always paid because good thinking always strays and is always at risk of overthrowing the status quo.  Words provide the service of absorbing a society's cognitive capacities into channels which prevent volatile shifts of group movement. And we are simply paid to use those words which absorb or mystify or deflect human desire into a desire for capitalism. We earn nothing if we use words which fail to channel human desire into exploitation, and finally we are punished to the degree our words challenge or inconvenience powerful actors.
+
+
+### Economic premium to computational thinking
 A huge problem with the information age is that because computational skills are rewarded disproportionately, and the top calculator minds quickly become privileged by the status quo, what comes to be counted and calculated tends to be motivated by a blithe confidence and satisfaction with the institutions of the status quo.
 
-# principled contentious action
+### Principled Contentious Action
 We might call “principled contentious action” anti-institutional or anti-systemic political behaviors grounded in truth claims
 this is what has been pacified
 there are still some contentious uprisings
@@ -59,7 +73,7 @@ but these have been separated, and that is the crucial mystification which defin
 but zola was also very strategic, how is that different than today?
 being strategic in a principled campaign is different than today, which is generating principles to serve strategic ends. in the former, ends are sincere but the means are strategic. in the latter, means are sincere but the ends are dishonest. zola took radical strategic action in pursuit of forcing truth and justice, even if he did it strategically; non-profit organizations use claims of truth and justice as a vehicle for strategically promoting certain groups.
 
-# Understanding the nature of commercial bias
+### Understanding the nature of commercial bias
 mass media have not programmed people to think or act in a certain way, they simply disconnect popular *resistance* from the reality of political affairs
 
 the mechanism through which they do this is simply giving people what they want to hear and see. this is acknowledged by every media scholar to be a fundamental fact of commercial media. but it’s effect is to create “noise” in the democratic mechanism whereby people positively or negatively to political affairs. Because by definition people are receiving what they want, the bias is not left or right but rather media are biased in favor of system-level dynamics and against within-system dynamics. This is how we can account for the perplexity that people often think the media is TOO critical of politicians AND that it is not critical enough.
@@ -76,3 +90,47 @@ what exactly has been pacified? principled contentious action. there’s still c
 what has been foreclosed is resistance to the status quo based on ethical or spiritual commitments. instrumental contentious action persists, because instrumental contentious action is the dominant mode of life sanctioned and encouraged by the status quo.
 
 principled contentious action is not left or right. like marxists didn’t support dreyfus, and some bourgeois political moderates did. if there is anyone who embodies it, it’s the radical public intellectual of theory and action.
+
+### Keynes and the False Promise of Taming Capitalism
+
+1. Someday we will look back on the notion of markets as we today look back on the witch trials: as a mass-delusional catastrophe in the ethical history of the world.
+
+2. It is not that markets don’t exist, it is not even that markets don’t work. The problem is precisely that they do work.
+
+3. The problem with Keynseianism is that by arguing that markets don’t always work, it maintained the assumption of instrumentalism.
+
+4. Keynes severely interrupted the revolutionary tendency, not because he was wrong, but because he was right.
+
+5. Leftists in general pacify themselves with moralism. It prefers to feel ethically and morally righteous over getting things right.
+
+6. Getting it “right” requires us to admit that conservatism is “right,” it is not *false*.
+
+7. To be radical is to choose to get it wrong with respect to the status quo, because one sees the status quo as wrong.
+
+8. Today our "left" is so oriented toward being true within the status quo that it is unable to be anything other than the status quo.
+
+9. It has been forced to seek truth within the status quo because mass media significantly increased the gains to being true within the status quo relative to saying the status quo is wrong. Globalization has multiplied this effect for the same reason. And since the late 1960s there's been a remarkable though essentially invisible ethical re-orientation toward consistency with exploitation.
+
+## Sketch of a general model (a distributive theory of information technology)
+
+As informational efficiency rises, all social actors are empowered to the degree their work involves manipulating information. This is why the 1950s and 1960s saw many relative improvements in the lives of so many actors in the United States: executives of many stripes and perhaps most interestingly in the advertising and marketing sectors ("Mad Men"), consumers (the golden age of suburban idyll), and social reformers (60s radicalism and minority movements) were all empowered to some degree by the new informational powers.
+
+But it also increases the short-term payoffs of manipulation relative to cooperation. Basically, increased information powers have the structure of a prisoner's dilemma. Consider a new information power which can be used to either cooperate or manipulate, a radio for instance. If two people agree to use the radio to increase their cooperation by telling each other truths, they each face what we might call a vulnerability cost but gain what we might call a solidarity value. However, if one of them promises to tell the truth but actually lies about their own type, they pay zero vulnerability cost while still gaining the other person's loyalty. The dominant strategy is to present a false type, and thus it is that in the long-run every advancement in information power actually incentivizes manipulative falsity.
+
+The period from 1947 to 1973 was essentially the first stage of learning process, where various strategies for maneuvering in the digital world are experimented with. Cooperators cooperated more powerfully (the extraordinary potency of late 1960s radicalism), but manipulators also manipulated more powerfully, and the beginning of the 1970s was just the point at which the remaining cooperators defected in the face of a seemingly unstoppable reality of manipulation as destiny. Indeed, the late 60's in particular is a last gasping breathe against instrumentality, and the 1970s marks its defeat by instrumental reason and begins a global ethical race to the bottom, where the left is sucked into a huge global vacuum, pulled either into the orbit of neoliberalism or mystified postures of protest merely bought and sold on the market. Hence all the radicals who gave up the radical struggle and opted for status quo media manipulation (consider the remarkable example of the Latin American revolutionary who laid down arms and went to work for a global PR firm, I have to find the citation for this...) or revolutionary media manipulation (even left-wing terrorism is only a manipulative propaganda of the deed).
+
+The real casualty on both sides of the political divide was the truth and the radicalism and solidarity unique to human honesty.
+
+One vector of this contention is played out in the rise of marketing understood broadly as the manipulation of human beings for earning profit, including the evolution of the marketing individual. This becomes scientific and massive for the first time ever, it's scientificity is evident not only in elite practices such as quantitative marketing research but even in the most horrid and peculiar subcultures such as that of male "pick-up artists" who try to develop a vulgar science of manipulating women.
+
+Another vector of this contention is played out in the organization of production processes. The rationalization of economic production as well as political (bureucratic or legal or military or "policy") production.
+
+But these vectors are really only relatively specific instances of engineering "operations," a generic term in computer, engineering, and management sciences for any process of manipulating inputs to generate certain outputs.
+
+### The Connection Between Media and Globalisation
+
+The crucial connection of media and globalisation is this: as media increased the reach of any particular message (beginning within the nation state and then beyond it), this radically increased the payoffs to speaking consistently with the status quo. When the ability to speak globally occurred, this amplified it. At the same time, the same thing that made this communication possible (the digital revolution) also amplified the political and economic premium to education/skills.
+
+When the amount of people any one person could reach was very small, it was worth it to resist status quo temptations and speak against the status quo.  First of all because capitulating to the status quo did not get you much, and second because others who suffered under the status quo were unlikely to have much emotional investment in it (or at least there was no reason to believe they did, a crucial point regarding the logic of mass communications).
+
+But as the potential reach of a status quo platform increased, this incentivized leftists to drop the radical discourse and trade it in for a hugely widespread but overall small positive effect rather than fight for system change. First because the payoff of a moderate message increased (you reach more people) but second because of the increasing belief that everyone else supports supports the status quo (because everyone else is getting pro-status quo messages).

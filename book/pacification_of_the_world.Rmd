@@ -1,16 +1,19 @@
 ---
-title: 'Lecture Notes on the Politics of Information, Communication, and Technology'
+title: 'The Pacification of the World: Notes on the Politics of Information and Communication'
 author: 'Justin Murphy'
 date: "`r format(Sys.time(), '%d %B %Y')`"
+abstract: "testing this is the abstract."
 output:
   html_document:
     toc: yes
+    toc_depth: 3
     theme: readable
     keep_md: yes
   pdf_document:
     fig_caption: yes
     includes:
       in_header: mystyles.sty
+      before_body: prefix.tex
     keep_tex: yes
     latex_engine: xelatex
     toc: yes
@@ -24,9 +27,6 @@ bibliography: mybib.bib
 urlcolor: red
 ---
 
-Outline
-
-\pagebreak
 
 
 ```{r, echo=FALSE}
@@ -34,64 +34,19 @@ setwd("~/Dropbox/gh_projects/pacification_of_the_world")
 ```
 
 # Part 1: General Theoretical Reflections
-```{r general-theory, child="~/Dropbox/gh_projects/pacification_of_the_world/content/general_theory.md"}
+```{r general-theory, child="~/Dropbox/gh_projects/pacification_of_the_world/content/general_theory.Rmd"}
 ```
 
-## The conservatism of everyday speech
-```{r isntrumentalism-of-speech, child="~/Dropbox/gh_projects/pacification_of_the_world/content/conservatism_of_everyday_speech.md"}
+
+# Part 2: Historical Outline
+```{r empirics, child="~/Dropbox/gh_projects/pacification_of_the_world/content/history.Rmd"}
 ```
 
-## Democracy as propaganda, 1914-1919
-```{r propaganda_and_democracy, child="~/Dropbox/gh_projects/pacification_of_the_world/content/propaganda_and_democracy/propaganda_and_democracy.Rmd"}
+
+# Part 3: Other Topics
+```{r topics, child="~/Dropbox/gh_projects/pacification_of_the_world/content/topics.Rmd"}
 ```
 
-# The emergence of public opinion
-```{r creation_of_public_opinion, child="~/Dropbox/gh_projects/pacification_of_the_world/content/creation_of_public_opinion.md"}
-```
-
-# On Walter Lippmann
-```{r on_lippmann, child="~/Dropbox/gh_projects/pacification_of_the_world/content/on_lippmann/on_lippmann.Rmd"}
-```
-
-# On Bell Labs
-```{r bell_labs_information_theory, child="~/Dropbox/gh_projects/pacification_of_the_world/content/bell_labs_information_theory.md"}
-```
-
-# A distributive theory of information processing
-```{r model_digital_political, child="~/Dropbox/gh_projects/pacification_of_the_world/content/model_digital_political.md"}
-```
-
-# On the early social science of the media
-```{r early_science_of_media, child="~/Dropbox/gh_projects/pacification_of_the_world/content/early_science_of_media.md"}
-```
-
-# Social science is endogenous to the media
-```{r social_science_is_endogenous, child="~/Dropbox/gh_projects/pacification_of_the_world/content/social_science_is_endogenous/social_science_is_endogenous.Rmd"}
-```
-
-# The ideology of "limited effects" in the institutionalized social sciences
-```{r ideology_of_limited_effects, child="~/Dropbox/gh_projects/pacification_of_the_world/content/ideology_of_limited_effects.md"}
-```
-
-# Old but unresolved problems with public opinion
-```{r problems_with_the_opinion_policy_link, child="~/Dropbox/gh_projects/pacification_of_the_world/content/problems_with_the_opinion_policy_link.md"}
-```
-
-# On globalization
-```{r globalization_and_its_discontents, child="~/Dropbox/gh_projects/pacification_of_the_world/content/globalization_and_its_discontents/globalization_and_its_discontents.Rmd"}
-```
-
-# The Instrumentalism of Keynesianism
-```{r instrumentalism-of-keynesianism, child="~/Dropbox/gh_projects/pacification_of_the_world/content/instrumentalism_of_keynesianism.md"}
-```
-
-# The ideology of "citizen engagement"
-```{r the_ideology_of_citizen_engagement, child="~/Dropbox/gh_projects/pacification_of_the_world/content/ideology_of_citizen_engagement.md"}
-```
-
-# Globalizing co-optation
-```{r globalizing_cooptation, child="~/Dropbox/gh_projects/pacification_of_the_world/content/globalizing_cooptation.md"}
-```
 
 
 
