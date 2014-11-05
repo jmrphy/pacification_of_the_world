@@ -1,22 +1,21 @@
 ---
-title: 'The Pacification of the World: Notes on the Politics of Information and Communication'
-author: 'Justin Murphy'
-date: "`r format(Sys.time(), '%d %B %Y')`"
-abstract: "testing this is the abstract."
+title: "The Pacification of the World: Notes on the Politics of Information and Communication"
+author: "Justin Murphy"
+date: 
 output:
-  html_document:
-    toc: yes
-    toc_depth: 3
-    theme: readable
-    keep_md: yes
   pdf_document:
     fig_caption: yes
     includes:
-      in_header: mystyles.sty
       before_body: prefix.tex
+      in_header: mystyles.sty
     keep_tex: yes
     latex_engine: xelatex
     toc: yes
+  html_document:
+    keep_md: yes
+    theme: readable
+    toc: yes
+    toc_depth: 3
 citecolor: red
 fontsize: 12pt
 geometry: margin=1.5in
