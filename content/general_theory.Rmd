@@ -9,6 +9,71 @@ Beginning in the 1970s, there was then an equally widespread decrease in system-
 
 
 
+```{r global-pacification, fig.height=6, fig.width=8, echo=FALSE, warning=FALSE, message=FALSE, error=FALSE, cache=TRUE, fig.cap="The Pacification of Collective System-Level Political Contention Around the World, 1919-2008"}
+setwd("~/Dropbox/gh_projects/pacification_of_the_world")
+df<-read.csv("data/banks_2014/cleaned/media_politics.csv")
+require(reshape2)
+require(ggplot2)
+require(zoo)
+
+attach(df)
+intl <-aggregate(df[c("year", "assassinations", "strikes", "riots", "guerilla",
+                      "overall.conflict", "demos")], by=list(year), 
+                   FUN=mean, na.rm=TRUE)
+detach(df)
+
+intl<-subset(intl, year>=1919 & year<=2008)
+
+intl$strikes<-rollmean(intl$strikes, k=5,fill = NA)
+intl$riots<-rollmean(intl$riots, k=5,fill = NA)
+intl$guerilla<-rollmean(intl$guerilla, k=5,fill = NA)
+
+molten<-melt(intl[c("year", "strikes", "guerilla", "riots")], id.vars=c("year"))
+
+cbbPalette <- c("#000000", "#56B4E9", "#E69F00", "#009E73", "#F0E442", "#0072B2", "#D55E00", "#CC79A7")
+
+ggplot(molten, aes(x=year, colour=variable)) +
+  geom_line(aes(y=value)) +
+  scale_colour_manual(values=cbbPalette) +
+  labs(y="Mean number of events around the world", x="Year") +
+  theme_bw()
+```
+
+
+```{r regional-pacification, fig.height=6, fig.width=8, echo=FALSE, warning=FALSE, message=FALSE, error=FALSE, cache=TRUE, fig.cap="Regional Pacification of Collective System-Level Political Contention Around the World, 1919-2008"}
+
+attach(df)
+regional <-aggregate(df[c("year", "mdi", "overall.conflict")], by=list(region, year), 
+                   FUN=mean, na.rm=TRUE)
+detach(df)
+regional$region<-regional$Group.1
+regional$year<-regional$Group.2
+regional<-subset(regional, year>=1919 & year<=2008 & region!="Other")
+regional<-regional[with(regional, order(region, year)), ]
+
+regional$mdi<-scale(regional$mdi)
+regional$overall.conflict<-scale(regional$overall.conflict+1)
+
+
+
+molten<-melt(regional[c("year", "region", "mdi", "overall.conflict")], id.vars=c("region", "year"))
+
+cbbPalette <- c("#000000", "#56B4E9", "#E69F00", "#009E73", "#F0E442", "#0072B2", "#D55E00", "#CC79A7")
+
+ggplot(molten, aes(x=year, colour=variable)) +
+  geom_line(aes(y=value)) +
+  scale_colour_manual(values=cbbPalette) +
+  labs(y="Mean number of events around the world", x="Year") +
+  theme_bw() +
+  facet_wrap(~region, nrow=4)
+```
+
+The conventional wisdom for explaining this shift is that the contention of the mid-century was directed mostly toward colonial oppressors and authoritarian regimes, so that all of this militant contention dissipated simply because decolonization and democratization gave people what they wanted: freedom from colonialism and democracy. This is, of course, one way to read the history. But objectively, there is a huge problem for this conventional wisdom, which mainstream social scientists will not even touch, and indeed they *cannot* even touch it without revealing the bad faith behind almost all of their concepts. That objective problem is that decolonization on the whole did not give way to robust national independence for the formerly colonized peoples and democratization on the whole did not lead to democratic governments. All of the most powerful genuine democratic (typically socialist) surges were aggressively thwarted by conservative interests, often with some amount of cooperation from the United States and its partner countries. To name the most well-known cases: Mossadegh in Iran 1953, Árbenz in Guatemala 1954, Qasim in Iraq 1960-63, Lumumba in Congo 1961, Ngô Đình Diệm in Vietnam 1963, Allende in Chile 1970-1973, the Communist party in Afghanistan 1979-89, Sandanista in Nicaragua 1981-1990.)
+
+In this light, the processes of decolonization and "democratization" rarely if ever led to substantially new and improved national periods of political-economic satisfaction. While there were no doubt significant changes in the institutional distribution of powers within and across countries, it really just doesn't objectively play out as a shift from oppression to liberation; rather it really seems much more like the shift from one type of equilibrium to a very different kind of equilibrium, but one which continues to be characterized by massive political and economic oppression.
+
+## Instrumental and Substantial Communication
+
 There's a crucial distinction, emphasized in particular by the Frankfurt School, between instrumental and substantive rationality. Broadly, instrumental rationality is that type of rationality concerned with calculating means to ends and substantive rationality is that type of rationality concerned with understanding the whole (means and ends). Instrumental rationality is concerned with strategy, calculating how to get *anywhere* the most efficiently, whereas substantive rationality is concerned with trying to figure out where one should go in general.
 
 The distinction emerges over and over again in politics.
