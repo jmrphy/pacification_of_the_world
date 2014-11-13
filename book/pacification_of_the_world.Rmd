@@ -1,8 +1,13 @@
 ---
 title: "Notes on Information Technology and System-Level Political Contention"
 author: "Justin Murphy"
-date: 
+date: November 13, 2014
 output:
+  html_document:
+    keep_md: yes
+    theme: readable
+    toc: yes
+    toc_depth: 3
   pdf_document:
     fig_caption: yes
     includes:
@@ -11,11 +16,6 @@ output:
     keep_tex: yes
     latex_engine: xelatex
     toc: yes
-  html_document:
-    keep_md: yes
-    theme: readable
-    toc: yes
-    toc_depth: 3
 citecolor: red
 fontsize: 12pt
 geometry: margin=1.5in
